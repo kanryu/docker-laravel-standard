@@ -132,7 +132,7 @@ local含めて設定値が上書きされていないか確認すること。
 - composerのセットアップ
 
 ```bash
-$ git clone https://github.com/kanryu/laravel-docker-standard.git
+$ git clone https://github.com/kanryu/docker-laravel-standard.git
 $ cd laravel-docker-standard
 $ cd laravel-app
 $ cp .env.local .env

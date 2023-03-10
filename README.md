@@ -129,7 +129,7 @@ This must be done before cloning the repository.
 - composer setup
 
 ```bash
-$ git clone https://github.com/kanryu/laravel-docker-standard.git
+$ git clone https://github.com/kanryu/docker-laravel-standard.git
 $ cd laravel-docker-standard
 $ cd laravel-app
 $ cp .env.local .env
